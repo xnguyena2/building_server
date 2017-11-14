@@ -1,0 +1,6 @@
+C:\Users\Nguyen Phong\Desktop\GAVEA\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Phong\Desktop\GAVEA\Server\bin\Debug\Server.exe.config
+C:\Users\Nguyen Phong\Desktop\GAVEA\Server\bin\Debug\Server.exe
+C:\Users\Nguyen Phong\Desktop\GAVEA\Server\bin\Debug\Server.pdb
+C:\Users\Nguyen Phong\Desktop\GAVEA\Server\obj\x86\Debug\Server.exe
+C:\Users\Nguyen Phong\Desktop\GAVEA\Server\obj\x86\Debug\Server.pdb

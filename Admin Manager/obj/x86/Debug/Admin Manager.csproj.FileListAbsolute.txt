@@ -1,0 +1,6 @@
+C:\Users\Nguyen Phong\Desktop\GAVEA\Admin Manager\bin\Debug\Admin Manager.exe.config
+C:\Users\Nguyen Phong\Desktop\GAVEA\Admin Manager\obj\x86\Debug\Admin Manager.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Phong\Desktop\GAVEA\Admin Manager\bin\Debug\Admin Manager.exe
+C:\Users\Nguyen Phong\Desktop\GAVEA\Admin Manager\bin\Debug\Admin Manager.pdb
+C:\Users\Nguyen Phong\Desktop\GAVEA\Admin Manager\obj\x86\Debug\Admin Manager.exe
+C:\Users\Nguyen Phong\Desktop\GAVEA\Admin Manager\obj\x86\Debug\Admin Manager.pdb
